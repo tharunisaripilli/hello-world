@@ -1,4 +1,4 @@
-import java.lang.*;
+import java.util.*;
 class Add
 {
     public static void main(String []args)
