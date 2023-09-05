@@ -1,7 +1,7 @@
 import java.lang.*;
 class Add
 {
-    pulic static void main(String []args)
+    public static void main(String []args)
     {
         int x=3, y=5;
         int z;
